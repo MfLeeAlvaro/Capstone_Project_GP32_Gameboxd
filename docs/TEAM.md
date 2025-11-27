@@ -6,7 +6,12 @@ A comprehensive gaming platform with mobile app, desktop web app, and backend AP
 
 ## Team Members
 
-*Add team member names and roles here*
+- Jon Adrian Lee
+- Thinh Pahn
+- VY Nguyen
+- HyeChan Yeo
+
+*Note: Team roles and responsibilities to be assigned*
 
 ## Project Overview
 
