@@ -10,11 +10,16 @@ export default function App() {
   return (
     <SafeAreaProvider>
       <NavigationContainer>
-        <Stack.Navigator initialRouteName="Home">
+        <Stack.Navigator 
+          initialRouteName="Home"
+          screenOptions={{
+            headerShown: false,
+            contentStyle: { backgroundColor: "#000" },
+          }}
+        >
           <Stack.Screen 
             name="Home" 
             component={HomeScreen}
-            options={{ title: "Gameboxd" }}
           />
         </Stack.Navigator>
       </NavigationContainer>
