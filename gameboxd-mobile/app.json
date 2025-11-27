@@ -3,6 +3,7 @@
     "name": "Gameboxd",
     "slug": "gameboxd-mobile",
     "version": "1.0.0",
+    "description": "Gaming platform by Team Level Up",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -11,9 +12,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
     "assetBundlePatterns": [
       "**/*"
     ],

@@ -1,5 +1,7 @@
 # Gameboxd - Full Stack Gaming Platform
 
+**By Team Level Up**
+
 A comprehensive gaming platform with mobile app (React Native), desktop web app (Next.js), and backend API (Node.js/Express).
 
 ## 📁 Project Structure
@@ -181,6 +183,8 @@ See `/docs` folder for:
 ISC
 
 ## 👥 Team
+
+**Team Level Up**
 
 GP32 Capstone Project
 
