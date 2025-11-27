@@ -151,10 +151,12 @@ GitHub Actions automatically deploys on push to `main` branch.
 ## 📚 Documentation
 
 See `/docs` folder for:
+- **Software Requirements Analysis and Design** - Complete requirements specification
 - Architecture diagrams
 - API documentation
 - Mockups
 - Sprint notes
+- Production readiness checklist
 
 ## 🛠️ Development Tools
 
